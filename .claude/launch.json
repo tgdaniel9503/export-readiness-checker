@@ -1,0 +1,6 @@
+{
+  "app": {
+    "command": "streamlit run app.py",
+    "port": 8501
+  }
+}
